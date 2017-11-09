@@ -2,5 +2,8 @@
 Ayuu’s solutions to Project Euler problems
 
 To use this code in your projects, please give credit to Ayuu.
-All problems use the class file Runtime, however it can be removed.
+
+All problems use the class file Runtime, however it can be discluded by modifying the code.
+
 Some problems use the class file MathE to simplify mathmatic tasks.
+
